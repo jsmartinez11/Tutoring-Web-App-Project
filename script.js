@@ -28,7 +28,7 @@ const quizData = [
     d: "maneuver",
     correct: "a",
 }, {
-    question: "What time of figurative language is this: 'That suitcase weighed a thousand pounds.'",
+    question: "What type of figurative language is this: 'That suitcase weighed a thousand pounds.'",
     a: "Simile",
     b: "Metaphor",
     c: "Hyperbole",
