@@ -1,11 +1,11 @@
 const quizData = [
 {
-    question: "Which of these is an adverb?",
-    a: "Strong",
-    b: "Quickly",
-    c: "Singing",
-    d: "Into",
-    correct: "b",
+    question: "Which of these is a noun?,
+    a: "bird",
+    b: "run",
+    c: "thinking",
+    d: "their",
+    correct: "a",
 }, {
     question: "Which of these is not one of your 60 prepositions?",
     a: "About",
