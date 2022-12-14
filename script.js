@@ -1,6 +1,9 @@
+var nameOfStudent = prompt("Hey, what is your name?");
+alert(nameOfStudent +", Good Luck on your practice quiz!");
+
 const quizData = [
 {
-    question: "Which of these is a noun?,
+    question: "Which of these is a noun?",
     a: "bird",
     b: "run",
     c: "thinking",
